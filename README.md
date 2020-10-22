@@ -10,6 +10,7 @@ The goal is to create a simple but efficient calendar application, which will cr
 * html
 * javascript
 * jquery
+* visual studio code
 
 # Acceptance Criteria
 
