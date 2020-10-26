@@ -14,7 +14,7 @@ $(document).ready(function () {
   }, 1000);
   //User clicks button to save text in time block to local stoage
   var timeboxText;
-  $(".saveBtn").on("click", function () {
+  $(".saveButton").on("click", function () {
       timeboxText = $(this).siblings("textarea")
       var userInput = timeboxText.val();
       var timeBlock = timeboxText.attr("id");
